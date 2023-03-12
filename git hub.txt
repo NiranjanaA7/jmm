@@ -1,0 +1,7 @@
+github
+Github is an online platform where we can share our codes (or projects) online hassle-free.
+ Github is place where we host our local git repository online.
+ it basically allow you to work collaboratively within a group of peoples.
+ It hosts all the features of Git and have its own too.
+
+
